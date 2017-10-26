@@ -12,6 +12,7 @@
         <module>direct-exchange</module>
         <module>confirm</module>
         <module>tx</module>
+        <module>headers-exchange</module>
     </modules>
 
     <packaging>pom</packaging>
