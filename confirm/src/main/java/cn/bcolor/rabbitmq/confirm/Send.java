@@ -15,7 +15,7 @@ import java.util.concurrent.TimeoutException;
  * @version 1.0
  */
 public class Send {
-    private static final int msgCount = 10;
+    private static final int msgCount = 10000;
     final static String QUEUE_NAME = "confirm-test";
 
     public static void main(String[] args) throws IOException, TimeoutException, InterruptedException {

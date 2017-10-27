@@ -13,6 +13,9 @@
         <module>confirm</module>
         <module>tx</module>
         <module>headers-exchange</module>
+        <module>fanout-exchange</module>
+        <module>exchange-topic</module>
+        <module>topic-exchange</module>
     </modules>
 
     <packaging>pom</packaging>
